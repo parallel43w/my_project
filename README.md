@@ -1,3 +1,5 @@
 "# My Project" 
 "This is a short project description." 
 "Additional project details go here." 
+"## New Features" 
+"This section describes new features." 
